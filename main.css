@@ -57,3 +57,13 @@ h2.card-header {
   border: solid 1px lightblue;
   text-align: center;
 }
+
+div.sold-out {
+  position: relative;
+}
+
+img.unavail {
+  position: absolute;
+  width: 400px;
+  left: -50px;
+}
